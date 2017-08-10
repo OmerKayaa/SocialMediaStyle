@@ -1,0 +1,48 @@
+
+#facebook
+{
+    transition: background-color 0.5s;
+    color : white;
+}
+
+#twitter
+{
+    transition: background-color 0.5s;
+    color: #32cdfd;
+}
+
+#instagram
+{
+    transition: background-color 0.5s;
+    color: white;
+}
+#linkedin
+{
+    transition: background-color 0.5s;
+    color: white;
+}
+
+#facebook :hover
+{
+    background-color: #1a589f;
+}
+
+#twitter :hover
+{
+    background-color: white;
+    color: #32cdfd;
+}
+
+#instagram :hover
+{
+    background: red;
+    background: -webkit-linear-gradient(left bottom, yellow, darkviolet);
+    background: -o-linear-gradient(left bottom, yellow, darkviolet);
+    background: -moz-linear-gradient(left bottom, yellow, darkviolet);
+    background: linear-gradient(to left bottom, yellow, darkviolet);
+}
+
+#linkedin :hover
+{
+    background-color: #0177b5;
+}
