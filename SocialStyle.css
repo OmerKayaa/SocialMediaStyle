@@ -1,25 +1,85 @@
 
 #facebook
 {
-    transition: background-color 0.5s;
     color : white;
 }
 
 #twitter
 {
-    transition: background-color 0.5s;
     color: #32cdfd;
 }
 
-#instagram
+#Instagram
 {
-    transition: background-color 0.5s;
     color: white;
 }
 #linkedin
 {
-    transition: background-color 0.5s;
     color: white;
+}
+
+#googleplus
+{
+    color: white;
+}
+
+#youtube
+{
+    color: white;
+}
+
+#pinterest
+{
+    color: white;
+}
+
+#tumblr
+{
+    color: white;
+}
+
+#snapChat
+{
+    color: white;
+}
+
+#reddit
+{
+    color: white;
+}
+
+#swarm
+{
+    color: white;
+}
+
+#kik
+{
+    color: white;
+}
+
+#periscope
+{
+    color: white;
+}
+
+#soundcloud
+{
+    color: white;
+}
+
+#tinder
+{
+    color: white;
+}
+
+#whatsapp
+{
+    color: white;
+}
+#vine
+{
+    color:white;
 }
 
 #facebook :hover
@@ -30,10 +90,9 @@
 #twitter :hover
 {
     background-color: white;
-    color: #32cdfd;
 }
 
-#instagram :hover
+#Instagram :hover
 {
     background: red;
     background: -webkit-linear-gradient(left bottom, yellow, darkviolet);
@@ -45,4 +104,77 @@
 #linkedin :hover
 {
     background-color: #0177b5;
+}
+
+#googleplus :hover
+{
+    background-color: #dd5044;
+}
+
+#youtube :hover
+{
+    background-color: #ee1c1b;
+}
+
+#pinterest :hover
+{
+    background-color: #bd081b;
+}
+
+#tumblr :hover
+{
+    background-color: #36465d;
+}
+
+#snapChat :hover
+{
+    background-color: #fffc5d;
+}
+
+#reddit :hover
+{
+    background-color: #ff4500;
+}
+
+#swarm :hover
+{
+    background-color: #ffa633;
+}
+
+#kik :hover
+{
+    background-color: #6fd22a;
+}
+
+#periscope :hover
+{
+    background-color: #30a4c6;
+}
+
+#soundcloud :hover
+{
+    background: #ff7800;
+    background: -webkit-linear-gradient(bottom, #ff7800, #ff3200);
+    background: -o-linear-gradient(bottom, #ff7800, #ff3200);
+    background: -moz-linear-gradient(bottom, #ff7800, #ff3200);
+    background: linear-gradient(to bottom, #ff7800, #ff3200);
+}
+
+#tinder :hover
+{
+    background-color: #ff7575;
+}
+
+#whatsapp :hover
+{
+    background: #25d366;
+    background: -webkit-linear-gradient(bottom, #61ff7d, #25cf43);
+    background: -o-linear-gradient(bottom, #61ff7d, #25cf43);
+    background: -moz-linear-gradient(bottom, #61ff7d, #25cf43);
+    background: linear-gradient(to bottom, #61ff7d, #25cf43);
+}
+
+#vine :hover
+{
+    background-color: #00bf8e;
 }
