@@ -9,7 +9,7 @@
     color: #32cdfd;
 }
 
-#Instagram
+#instagram
 {
     color: white;
 }
@@ -38,7 +38,7 @@
     color: white;
 }
 
-#snapChat
+#snapchat
 {
     color: white;
 }
@@ -82,76 +82,76 @@
     color:white;
 }
 
-#facebook :hover
+#facebook:hover
 {
     background-color: #1a589f;
 }
 
-#twitter :hover
+#twitter:hover
 {
     background-color: white;
 }
 
-#Instagram :hover
+#instagram:hover
 {
     background: red;
-    background: -webkit-linear-gradient(left bottom, yellow, darkviolet);
-    background: -o-linear-gradient(left bottom, yellow, darkviolet);
-    background: -moz-linear-gradient(left bottom, yellow, darkviolet);
-    background: linear-gradient(to left bottom, yellow, darkviolet);
+    background: -webkit-linear-gradient(right top, yellow, red, darkviolet);
+    background: -o-linear-gradient(right top, yellow, red, darkviolet);
+    background: -moz-linear-gradient(right top, yellow, red, darkviolet);
+    background: linear-gradient(to right top, yellow, red, darkviolet);
 }
 
-#linkedin :hover
+#linkedin:hover
 {
     background-color: #0177b5;
 }
 
-#googleplus :hover
+#googleplus:hover
 {
     background-color: #dd5044;
 }
 
-#youtube :hover
+#youtube:hover
 {
     background-color: #ee1c1b;
 }
 
-#pinterest :hover
+#pinterest:hover
 {
     background-color: #bd081b;
 }
 
-#tumblr :hover
+#tumblr:hover
 {
     background-color: #36465d;
 }
 
-#snapChat :hover
+#snapchat:hover
 {
     background-color: #fffc5d;
 }
 
-#reddit :hover
+#reddit:hover
 {
     background-color: #ff4500;
 }
 
-#swarm :hover
+#swarm:hover
 {
     background-color: #ffa633;
 }
 
-#kik :hover
+#kik:hover
 {
     background-color: #6fd22a;
 }
 
-#periscope :hover
+#periscope:hover
 {
     background-color: #30a4c6;
 }
 
-#soundcloud :hover
+#soundcloud:hover
 {
     background: #ff7800;
     background: -webkit-linear-gradient(bottom, #ff7800, #ff3200);
@@ -160,12 +160,12 @@
     background: linear-gradient(to bottom, #ff7800, #ff3200);
 }
 
-#tinder :hover
+#tinder:hover
 {
     background-color: #ff7575;
 }
 
-#whatsapp :hover
+#whatsapp:hover
 {
     background: #25d366;
     background: -webkit-linear-gradient(bottom, #61ff7d, #25cf43);
@@ -174,7 +174,7 @@
     background: linear-gradient(to bottom, #61ff7d, #25cf43);
 }
 
-#vine :hover
+#vine:hover
 {
     background-color: #00bf8e;
 }
