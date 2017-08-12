@@ -1,12 +1,25 @@
+@charset "UTF-8";
+@font-face
+{
+    font-family: "Klavika";
+    src: url(Klavika.otf) format("truetype");
+}
+@font-face
+{
+    font-family: "Pico";
+    src: url(Picowa.TTF) format("truetype");
+}
 
 #facebook
 {
+    font-family: Klavika;
     color : white;
 }
 
 #twitter
 {
-    color: #32cdfd;
+    font-family: Pico;
+    color: #00aced;
 }
 
 #instagram
