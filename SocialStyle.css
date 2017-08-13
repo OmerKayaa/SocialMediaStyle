@@ -378,6 +378,7 @@
 }
 #flickr:hover
 {
+    background-color:white;
     color: #0064dc;
 }
 #flickr:hover span
