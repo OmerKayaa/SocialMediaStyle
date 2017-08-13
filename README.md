@@ -1,6 +1,5 @@
 # SocialMediaStyle
-Background color and font for logos of the social webpages
-24 popular webpages
+Background color and font for logos of the 24 popular webpages
 -facebook
 -twitter
 -instagram
