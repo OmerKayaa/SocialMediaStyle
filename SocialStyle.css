@@ -2,102 +2,268 @@
 @font-face
 {
     font-family: "Klavika";
-    src: url(Klavika.otf) format("truetype");
+    src: url(Fonts/Klavika.otf) format("truetype");
 }
 @font-face
 {
     font-family: "Pico";
-    src: url(Picowa.TTF) format("truetype");
+    src: url(Fonts/Picowa.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "Catull";
+    src: url(Fonts/Catull.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "BookmanOldStyle";
+    src: url(Fonts/Bookosb.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "Billabong";
+    src: url(Fonts/Billabong.woff) format("truetype");
+}
+@font-face
+{
+    font-family: "TradeGothic";
+    src: url(Fonts/TradeGothic.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "MyriadPro";
+    src: url(Fonts/MyriadPro.otf) format("truetype");
+}
+@font-face
+{
+    font-family: "TerraNarrow";
+    src: url(Fonts/TerraNarrow.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "Museosans";
+    src: url(Fonts/Museosans-500.otf) format("truetype");
+}
+@font-face
+{
+    font-family: "ChevinDemi";
+    src: url(Fonts/ChevinDemi.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "ChaletLondon97";
+    src: url(Fonts/ChaletLondon97.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "Helvika";
+    src: url(Fonts/HelveticaNeue.otf) format("truetype");
+}
+@font-face
+{
+    font-family: "Freewaygothic";
+    src: url(Fonts/Freewaygothic.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "VolkswagenSerial";
+    src: url(Fonts/Volkswagen-Serial.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "DancingScript";
+    src: url(Fonts/DancingScript.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "RobotoCondensed";
+    src: url(Fonts/RobotoCondensed.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "LilyScriptOne";
+    src: url(Fonts/LilyScriptOne.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "RobotoThin";
+    src: url(Fonts/RobotoThin.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "BlackRose";
+    src: url(Fonts/BlackRose.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "TwitchTv";
+    src: url(Fonts/Twitchy.TV.otf) format("truetype");
+}
+@font-face
+{
+    font-family: "ArialRoundedBold";
+    src: url(Fonts/ArialRoundedBold.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "FrutigerBlack";
+    src: url(Fonts/FrutigerBlack.otf) format("truetype");
+}
+@font-face
+{
+    font-family: "VAGRounded";
+    src: url(Fonts/VAGRounded.ttf) format("truetype");
+}
+@font-face
+{
+    font-family: "GothamNarrow";
+    src: url(Fonts/GothamNarrow.otf) format("truetype");
 }
 
 #facebook
 {
-    font-family: Klavika;
+    font-family: "Klavika";
     color : white;
 }
 
 #twitter
 {
-    font-family: Pico;
-    color: #00aced;
+    font-family: "Pico";
+    color: #55acee;
 }
 
 #instagram
 {
+    font-family: "Billabong";
     color: white;
 }
 #linkedin
 {
+    font-family: "MyriadPro";
     color: white;
 }
 
 #googleplus
 {
+    font-family: "Catull";
     color: white;
 }
 
 #youtube
 {
+    font-family: "TradeGothic";
     color: white;
 }
 
 #pinterest
 {
+    font-family: "TerraNarrow";
     color: white;
 }
 
 #tumblr
 {
+    font-family: "BookmanOldStyle";
     color: white;
 }
 
 #snapchat
 {
+    font-family: "RobotoCondensed";
     color: white;
 }
 
 #reddit
 {
+    font-family: "VolkswagenSerial";
     color: white;
 }
 
 #swarm
 {
+    font-family: "DancingScript";
     color: white;
 }
 
 #kik
 {
+    font-family: "ChevinDemi";
     color: white;
 }
 
 #periscope
 {
+    font-family: "Museosans";
     color: white;
 }
 
 #soundcloud
 {
+    font-family: "Freewaygothic";
     color: white;
 }
 
 #tinder
 {
+    font-family: "ChaletLondon97";
     color: white;
 }
 
 #whatsapp
 {
+    font-family: "Helvika";
     color: white;
 }
 #vine
 {
+    font-family: "LilyScriptOne";
     color:white;
 }
 
+#messenger
+{
+    font-family: "RobotoThin";
+    color:white;
+}
+
+#viber
+{
+    font-family: "VAGRounded";
+    color:white;
+}
+
+#vimeo
+{
+    font-family: "BlackRose";
+    color:white;
+}
+
+#skype
+{
+    font-family: "ArialRoundedBold";
+    color:white;
+}
+
+#twitch
+{
+    font-family: "TwitchTv";
+    color:white;
+}
+#flickr
+{
+    font-family: "FrutigerBlack";
+    color:white;
+}
+#spotify
+{
+    font-family: "GothamNarrow";
+    color:white;
+}
+
+
 #facebook:hover
 {
-    background-color: #1a589f;
+    background-color: #3b5998;
 }
 
 #twitter:hover
@@ -116,22 +282,22 @@
 
 #linkedin:hover
 {
-    background-color: #0177b5;
+    background-color: #007bb5;
 }
 
 #googleplus:hover
 {
-    background-color: #dd5044;
+    background-color: #dd4b39;
 }
 
 #youtube:hover
 {
-    background-color: #ee1c1b;
+    background-color: #bb0000;
 }
 
 #pinterest:hover
 {
-    background-color: #bd081b;
+    background-color: #cb2027;
 }
 
 #tumblr:hover
@@ -141,7 +307,7 @@
 
 #snapchat:hover
 {
-    background-color: #fffc5d;
+    background-color: #fffc00;
 }
 
 #reddit:hover
@@ -180,7 +346,7 @@
 
 #whatsapp:hover
 {
-    background: #25d366;
+    background: #4dc247;
     background: -webkit-linear-gradient(bottom, #61ff7d, #25cf43);
     background: -o-linear-gradient(bottom, #61ff7d, #25cf43);
     background: -moz-linear-gradient(bottom, #61ff7d, #25cf43);
@@ -189,5 +355,46 @@
 
 #vine:hover
 {
-    background-color: #00bf8e;
+    background-color: #00bf8f;
+}
+
+#messenger:hover
+{
+    background: #0098ff;
+    background: -webkit-linear-gradient(bottom, #00c8ff, #0064ff);
+    background: -o-linear-gradient(bottom, #00c8ff, #0064ff);
+    background: -moz-linear-gradient(bottom, #00c8ff, #0064ff);
+    background: linear-gradient(to bottom, #00c8ff, #0064ff);
+}
+
+#vimeo:hover
+{
+    background-color: #1ab7ea;
+}
+
+#twitch:hover
+{
+    background-color: #6441a5;
+}
+#flickr:hover
+{
+    color: #0064dc;
+}
+#flickr:hover span
+{
+    color: #ff0084;
+}
+
+#viber:hover
+{
+    background-color: #7b519d;
+}
+
+#skype:hover
+{
+    background-color: #00aff1;
+}
+#spotify:hover
+{
+    background-color: #1ed760;
 }
