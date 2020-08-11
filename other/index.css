@@ -1,0 +1,46 @@
+body
+{
+    margin-inside: 5%;
+    background-color: #7a7a7a;
+}
+
+.main-wrapper
+{
+    display: grid;
+    grid-gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: auto auto auto;
+}
+
+.main-wrapper div
+{
+    display: flex;
+    height: 100px;
+    width: 200px;
+    transition: 1s;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.main-wrapper div label
+{
+    font-size: 1.8em;
+    margin: auto;
+}
+
+@media only screen and (min-width: 1200px)
+{
+    .main-wrapper
+    {
+        grid-template-columns: auto auto auto auto auto;
+    }
+}
+
+@media only screen and (max-width: 620px)
+{
+    .main-wrapper
+    {
+        grid-template-columns: auto;
+    }
+}
