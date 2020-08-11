@@ -24,3 +24,7 @@ Background color and font for logos of the 24 popular webpages
 * twitch
 * skype
 * spotify
+
+![Example Image](/other/img/SocialMediaStyle.jpg)
+
+![Example Image](/other/img/SocialMediaStyle.gif)
